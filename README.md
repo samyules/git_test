@@ -1,1 +1,1 @@
-This is samyule's first git project!
+This is samyules's first git project!
